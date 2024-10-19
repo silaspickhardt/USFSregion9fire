@@ -8,6 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: greatlakes.qmd
+        text: Great Lakes
+      - href: eastern.qmd
+        text: Eastern
+      - href: centralplains.qmd
+        text: Central Plains 
       - about.qmd
 
 format:
