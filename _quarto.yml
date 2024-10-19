@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "r9website"
+  title: "Region 9 Fire"
   navbar:
     left:
       - href: index.qmd
