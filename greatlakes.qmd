@@ -2,4 +2,12 @@
 title: "Great Lakes National Forests"
 ---
 
-\-
+-   Superior
+
+-   Hiawatha
+
+-   Ottawa
+
+-   Huron-Manistee
+
+    ![](images/Great Lakes Region.png){width="485"}

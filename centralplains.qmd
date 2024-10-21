@@ -1,3 +1,5 @@
 ---
 title: "Central Plains National Forests and Grasslands"
 ---
+
+![](images/Central Plains Region.png)

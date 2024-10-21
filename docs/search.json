@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "USFS Region 9 Fire Report",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Introduction to Historical Fire Regimes in Region 9 National Forests (from ChatGPT)\nFire has played a critical role in shaping the ecosystems of the National Forests in Region 9, which encompass a diverse array of landscapes across the Northeastern United States. From the towering pines of the Allegheny National Forest to the sprawling hardwoods of the Wayne National Forest, the history of fire in these areas is rich and complex. Indigenous peoples have long understood the importance of fire as a land management tool, using it to promote healthy growth, enhance wildlife habitat, and prevent larger, uncontrolled wildfires.\nIn the 20th century, fire management strategies evolved significantly, influenced by changing attitudes toward fire’s ecological role. The advent of fire suppression policies led to a reduction in the natural fire cycles that many forest ecosystems depend on, resulting in shifts in species composition and increased fuel loads. As a consequence, the forests have faced heightened risks of catastrophic wildfires in recent years, prompting a re-evaluation of fire management practices.\nThis exploration of historical fire in Region 9 National Forests aims to highlight the ecological, cultural, and managerial aspects of fire, illustrating how it has shaped the landscapes we see today. By understanding the historical context of fire in these forests, we can better appreciate its role in maintaining biodiversity and resilience in the face of contemporary environmental challenges.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -18,6 +18,13 @@
     "href": "greatlakes.html",
     "title": "Great Lakes National Forests",
     "section": "",
-    "text": "-"
+    "text": "Superior\nHiawatha\nOttawa\nHuron-Manistee"
+  },
+  {
+    "objectID": "eastern.html",
+    "href": "eastern.html",
+    "title": "Eastern National Forests",
+    "section": "",
+    "text": "Wayne\nGreen Mountain and Finger Lakes\nWhite Mountain\nAllegheny\nMonongahela"
   }
 ]
